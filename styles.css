@@ -1,16 +1,16 @@
-.text-platzi{
+.text-app{
     color: #97c93e !important;
 }
 
-.text-platzi:hover { 
+.text-app:hover { 
     color: #a3acbd !important; 
 }
 
-.btn-platzi{
+.btn-app{
     background-color: #1a04dd;
 }
 
-.btn-platzi:hover { 
+.btn-app:hover { 
     color: #5d7686 ; 
 }
 
